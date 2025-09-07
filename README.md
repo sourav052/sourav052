@@ -28,9 +28,9 @@
 ##  Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=sourav052&theme=onedark)](https://github.com/sourav052/github-profile-trophy)
 
-## Contribution Graph
+## 🐍 Contribution Graph
 
-![GitHub Contribution Graph](https://github.com/sourav052/sourav052/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Graph](https://raw.githubusercontent.com/sourav052/sourav052/output/dist/github-contribution-grid-snake.svg)
 
 ## ☕ Support Me
 
