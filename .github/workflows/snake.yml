@@ -1,8 +1,8 @@
-name: Generate Snake Contribution Graph
+name: Artistic Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
         with:
           github_user_name: sourav052
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#39ff14
+            dist/github-contribution-grid-snake-art.svg?palette=github-dark&color_snake=%2339ff14&color_snake_border=%23fff&color_dots=%23b993d6,%238ca6db,%23b993d6,%238ca6db,%2339ff14&animation_duration=2s&animation_type=wobble
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
