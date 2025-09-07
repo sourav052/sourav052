@@ -75,7 +75,7 @@
 ## 🎨 Artistic Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sourav052/sourav052/output/dist/github-contribution-grid-snake-art.svg?palette=github-dark&color_snake=%2339ff14&color_snake_border=%23fff&color_dots=%23b993d6,%238ca6db,%23b993d6,%238ca6db,%2339ff14&animation_duration=2s&animation_type=wobble" alt="Artistic snake eating commits"/>
+  <img src="https://github.com/sourav052/sourav052/blob/output/github-contribution-grid-snake-art.svg?palette=github-dark&color_snake=%2339ff14&color_snake_border=%23fff&color_dots=%23b993d6,%238ca6db,%23b993d6,%238ca6db,%2339ff14&animation_duration=2s&animation_type=wobble" alt="Artistic snake eating commits"/>
 </p>
 
 ---
