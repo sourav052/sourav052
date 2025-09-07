@@ -30,7 +30,7 @@
 
 ## 🐍 Contribution Graph
 
-![GitHub Contribution Graph](https://raw.githubusercontent.com/sourav052/sourav052/output/dist/github-contribution-grid-snake.svg)
+![GitHub Contribution Graph](https://github.com/sourav052/sourav052/blob/output/github-contribution-grid-snake.svg)
 ## ☕ Support Me
 
 <a href="https://www.buymeacoffee.com/yourname"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
