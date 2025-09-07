@@ -1,36 +1,83 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sourav+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!)
-![Profile views](https://komarev.com/ghpvc/?username=sourav052&color=brightgreen)
+<!-- 💎 Sourav - GitHub Profile README 💎 -->
 
-# Hi, I'm Sourav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<!-- Typing effect intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Sourav!;Java+Full+Stack+Developer+from+India;Spring+Boot+%7C+DevOps+Learner+%7C+Open+Source+Enthusiast" />
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/bitsourav/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-bit-b051251a9/)
+<h1 align="center">🚀 Full Stack Developer | ☕ Java Enthusiast | ☁️ DevOps Curious</h1>
 
-## 🚀 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,100:39ff14&height=90&section=header&animation=twinkling"/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-...
+---
 
-## 📌 Featured Projects
+## 🧠 About Me
+
+🔹 **Name:** Sourav  
+🔹 **Role:** Full Stack Developer  
+🔹 **Current Focus:** Spring Boot, Cloud DevOps, CI/CD  
+🔹 **Location:** India 🇮🇳  
+🔹 **Goal:** To build scalable, resilient systems and contribute to open source  
+🔹 **Fun Fact:** I love building side projects & automating daily tasks!
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:sourav.bit02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sourav-bit-b051251a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/bitsourav/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://github.com/sourav052"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,docker,postgresql,mysql,git,github,html,css,aws" />
+</p>
+
+> **Also using:** Spring Boot · Spring Security · JPA · Hibernate · JWT · Docker · GitHub Actions · AWS · JUnit · Swagger · Prometheus · Grafana
+
+---
+
+## 📌 My Projects
 
 - [🛒 E-commerce Project](https://github.com/sourav052/E-commerse_project)
 - [🔐 Spring Security](https://github.com/sourav052/Spring-security)
 - [⚡ Async Completable Future](https://github.com/sourav052/AsyncCompletable_future)
 - [📊 Credit Score Analysis](https://github.com/sourav052/credit-scoreAnalysys)
 - [🔑 JWT Token & OTP Auth](https://github.com/sourav052/JWT_token-with-otp-based-Authentication)
-...
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourav052&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav052&layout=compact)
+---
 
-##  Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=sourav052&theme=onedark)](https://github.com/sourav052/github-profile-trophy)
+## 📊 GitHub Stats
 
-## 🐍 Contribution Graph
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav052&theme=dark&hide_border=false)
 
-![GitHub Contribution Graph](https://github.com/sourav052/sourav052/blob/output/github-contribution-grid-snake.svg)
-## ☕ Support Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav052&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sourav052&theme=tokyonight" height="160"/>
+</p>
 
-<a href="https://www.buymeacoffee.com/yourname"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sourav052&theme=gruvbox&title=MultiLanguage,Commit,Repositories,Followers,PullRequest,Stars&no-frame=true&column=3&margin-w=15" />
+</p>
+
+---
+
+## 🎨 Artistic Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sourav052/sourav052/output/dist/github-contribution-grid-snake-art.svg?palette=github-dark&color_snake=%2339ff14&color_snake_border=%23fff&color_dots=%23b993d6,%238ca6db,%23b993d6,%238ca6db,%2339ff14&animation_duration=2s&animation_type=wobble" alt="Artistic snake eating commits"/>
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
